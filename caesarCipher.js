@@ -1,5 +1,7 @@
 // encrypt text using caesar cipher
 function caesarCipher(s, k) {
+    // s for text
+    // k for number
     let alphabet = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'];
     let index = [];
     let result = [];
